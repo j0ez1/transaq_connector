@@ -7,3 +7,4 @@ pair/
 build/
 docs/build/
 txmlconnector*.dll
+venv*/
